@@ -8,15 +8,13 @@
     justify-content: space-evenly;
     padding-right: 7em;
     color: rgb(255, 255, 255);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-bottom: 13em;
 }
 
 #home img {
     width: 23em;
+    border-radius: 20px;
     
-    box-shadow:  30px 30px 0px 4px rgb(127, 215, 237); /* Adjust the color and size as needed */
-    /* outline: 1px solid rgb(172, 222, 79); */
 }
 
 #projects {
