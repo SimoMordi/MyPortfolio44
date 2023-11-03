@@ -29,7 +29,7 @@ const Navbar = () => {
                 <LinkedInIcon className='icon' fontSize='large'/>
                 <p>linkedIn</p>
             </a>
-            <a href="/assets/Resume-SimoMordi.pdf" target='_blank' rel="noopener noreferrer">
+            <a href="./assets/Resume-SimoMordi.pdf" target='_blank' rel="noopener noreferrer">
                 <ArticleOutlinedIcon className='icon' fontSize='large'/>
                 <p>resume</p>
             </a>
